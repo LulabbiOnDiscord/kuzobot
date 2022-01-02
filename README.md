@@ -1,6 +1,6 @@
 <img align=left src="https://images-ext-1.discordapp.net/external/uo-Bd748C29ykIQkOKSPOvnbiJJD9mAkjGBZmxYa1uo/https/i.imgur.com/Qnoa1cs.png?width=73&height=76" width="150" alt="KuzoBot" />
 
-<a href="https://discord.gg/undefined"><img src="https://img.shields.io/discord/682193585210130508?color=7289da&logo=discord&logoColor=white" alt="Serveur support" /></a>
+<a href="https://discord.gg/leaksfr"><img src="https://img.shields.io/discord/682193585210130508?color=7289da&logo=discord&logoColor=white" alt="Serveur support" /></a>
 <a href="https://github.com/apoow3b/kuzobot"><img src="https://img.shields.io/github/stars/apoow3b/kuzobot?style=social" alt="GitHub" /></a>
 
 # KuzBot
