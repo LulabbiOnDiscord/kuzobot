@@ -19,10 +19,14 @@ Découvrez aussi son module de protections, et toutes les commandes utiles à la
   - [Licence](#licence)
 
 ## Fonctionnalités
-* 🛡️ `Protection`: Panel, Antiban, Anti-lien, Anti-role, Antispam
-* ⚒️ `Logs`: Complètes, Salon modifiable
+* 🛡️ `Protection`: Panel, Antiban, Anti-lien, Anti-role, Antispam...
+* ⚒️ `Logs`: image, mentions, vocal
 * 🎉 `Giveaways`: End, Reroll
 * 🧮 `Jeux` ascii, beatiful, binary...
+* 🕰️ `Watch_Together` youtube
+* 🍃 `Backup` backup-create, backup-info, backup-load
+* 🎋 `Misc` botlist, botinfo, serverinfo, emojislist, ping, userinfo...
+* 👑 `Owner_Server` owner-list, whitelist, whitelist-list...
 
 ## Setup
 
@@ -55,7 +59,7 @@ Faites la commande associée au nom du système de protection pour l'activer !
 
 ## Liens
 
-[Discord](discord.gg/undefined)
+[Discord](discord.gg/leaksfr)
 
 ## Licence
 Le bot est sous licence, si vous utilisez le code pour votre propre projet, merci d'indiquer des crédits quelque part.  
